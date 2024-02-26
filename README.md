@@ -1,0 +1,2 @@
+- 👋 Olá, eu sou o Aldebara e atualmente sou um Estudante de C# / .NET
+- 
