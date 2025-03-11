@@ -1,20 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá👋 </h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Meu nome é Eduardo tenho 18 anos e atualmente sou um estudante de Análise e Desenvolvimento de Sistemas, sou de Carapicuíba, São Paulo.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Programo desde os 15 anos, antes como um hobbie mas agora vejo como minha profissão.<br>📚 Atualmente estou estudando Spring e Angular<br>🎯 Metas: me tornar um desenvolvedor full-stack com Spring boot e Angular<br></p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu desenvolvo com</h2>
 
 ###
 
