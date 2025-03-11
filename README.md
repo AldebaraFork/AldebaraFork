@@ -46,7 +46,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AldebaraFork/AldebaraFork/output/snake.svg" alt="Snake animation" />
 
 ###
 ###
